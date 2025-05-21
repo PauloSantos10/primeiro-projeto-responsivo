@@ -6,6 +6,7 @@
 <h2>Tecnologias utilizadas</h2>
 <br>
    -HTML
+   <br>
    -CSS
 
 <img src="https://github.com/PauloSantos10/primeiro-projeto-responsivo/blob/main/img/desktop.png?raw=true">
