@@ -10,3 +10,4 @@
    -CSS
 
 <img src="https://github.com/PauloSantos10/primeiro-projeto-responsivo/blob/main/img/desktop.png?raw=true">
+<img src="https://github.com/PauloSantos10/primeiro-projeto-responsivo/blob/main/img/celular.png?raw=true">
